@@ -14,7 +14,9 @@ To view individual pages click on the respective Link.
 
 ### > Experiment 2 :
 
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Home - Page</a> Contributor - <b>Mohiboddin</b>
+- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Hospital-Info - Page</a> Contributor - <b>Mohiboddin</b>
+- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Home - Page</a> Contributor - <b>Mohiboddin</b>
+
 
 
 ## Note:
