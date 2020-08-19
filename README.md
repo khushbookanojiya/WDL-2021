@@ -30,7 +30,7 @@ You can see the rendered HTML code by clicking on the link.
 
 ### > Experiment 3 :
 
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Hospital-Info - Page</a> Contributor - <b>Mohiboddin</b>
+- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_3/Hos_info.html">Hospital-Info - Page</a> Contributor - <b>Mohiboddin</b>
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Home - Page</a> Contributor - <b>Mohiboddin</b>
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Sign in-Info - Page</a> Contributor - <b>Farheen</b>
 - <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Contact - Page</a> Contributor - <b>Farheen</b>
