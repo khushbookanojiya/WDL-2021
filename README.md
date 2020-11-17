@@ -1,69 +1,61 @@
-# WDL-2020
-This repository is created for the submission purpose of WDL_lab course. Team mamebers: Farheen, Yunus, Khusboo, Mohiboddin
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-## Detailed View:
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-You can see the rendered HTML code by clicking on the link.
+## About Laravel
 
-### > Experiment 1 :
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- <a href="https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_1/website%20UI.pdf">Website Preview</a>
-- <a href="https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_1/18CO54_EXP1(WDL).pdf">18CO54 Mohiboddin Shaikh</a>
-- <a href="https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_1/18CO54_EXP1(WDL).pdf">18CO54 Farheen Master</a>
-- <a href="https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_1/18CO54_EXP1(WDL).pdf">18CO54 Yunus Kasim</a>
-- <a href="https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_1/18CO54_EXP1(WDL).pdf">18CO54 Khusboo Karvaujiya</a>
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Learning Laravel
 
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-### > Experiment 2 :
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Hospital-Info - Page</a> Contributor - <b>Mohiboddin</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Home - Page</a> Contributor - <b>Mohiboddin</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Sign in-Info - Page</a> Contributor - <b>Farheen</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Contact - Page</a> Contributor - <b>Farheen</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Register - Page</a> Contributor - <b>Yunus</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Update - Page</a> Contributor - <b>Yunus</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Count-Info - Page</a> Contributor - <b>Khushboo</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Team - Page</a> Contributor - <b>Khushboo</b>
+## Laravel Sponsors
 
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### > Experiment 3 :
+### Premium Partners
 
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_3/Hos_info.html">Hospital-Info - Page</a> Contributor - <b>Mohiboddin</b>
-- <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/Mohiboddin/WDL-2020/master/Exp_3/index.html">Home - Page</a> Contributor - <b>Mohiboddin</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Sign in-Info - Page</a> Contributor - <b>Farheen</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Contact - Page</a> Contributor - <b>Farheen</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Register - Page</a> Contributor - <b>Yunus</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Update - Page</a> Contributor - <b>Yunus</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/Hos_info.html">Count-Info - Page</a> Contributor - <b>Khushboo</b>
-- <a href="https://htmlpreview.github.io/?https://github.com/Mohiboddin/WDL-2020/blob/master/Exp_2/index.html">Team - Page</a> Contributor - <b>Khushboo</b>
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[OP.GG](https://op.gg)**
 
+## Contributing
 
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
+## Code of Conduct
 
-## Note:
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-To know Individual Contribution of the project you can visit the branches via below links :
-- Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Mohiboddin</a>
-- Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Farheen</a>
-- Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Yunus</a>
-- Branch : <a href="https://github.com/Mohiboddin/WDL-2020">Khushboo</a>
+## Security Vulnerabilities
 
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## License
 
-
-## CONTRIBUTORS:
-
-- **Shaikh Mohiboddin**<br>
-[-] GitHub : https://github.com/Mohiboddin
-
-- **Yunus Kasim**<br>
-[-] GitHub : https://github.com/Mohiboddin
-
-- **Farheen Master**<br>
-[-] GitHub : https://github.com/Mohiboddin
-
-- **Khushboo Karvaujiya**<br>
-[-] GitHub : https://github.com/Mohiboddin
-
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
